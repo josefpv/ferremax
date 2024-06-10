@@ -1,0 +1,133 @@
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\bin\Debug\net8.0\appsettings.json
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.exe
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.deps.json
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.runtimeconfig.json
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.dll
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.pdb
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.csproj.AssemblyReference.cache
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.AssemblyInfoInputs.cache
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.AssemblyInfo.cs
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.csproj.CoreCompileInputs.cache
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.Ferremax.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Ferremax.API.props
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ferremax.API.props
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ferremax.API.props
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\scopedcss\bundle\Ferremax.API.styles.css
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.23C3BFF5.Up2Date
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.dll
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\refint\Ferremax.API.dll
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.pdb
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.genruntimeconfig.cache
+C:\Users\framirez\source\repos\Ferremax\Ferremax.API\obj\Debug\net8.0\ref\Ferremax.API.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\refint\Ferremax.API.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.pdb
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.dll
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\refint\Ferremax.API.dll
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.pdb
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.csproj.AssemblyReference.cache
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.AssemblyInfoInputs.cache
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.AssemblyInfo.cs
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.csproj.CoreCompileInputs.cache
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.sourcelink.json
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.exe
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.deps.json
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.runtimeconfig.json
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.dll
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.pdb
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.Ferremax.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Ferremax.API.props
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ferremax.API.props
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ferremax.API.props
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\scopedcss\bundle\Ferremax.API.styles.css
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.23C3BFF5.Up2Date
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.genruntimeconfig.cache
+C:\Users\Cetecom\Desktop\FERREMAX\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\ref\Ferremax.API.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\appsettings.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.exe
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.deps.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.runtimeconfig.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.pdb
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.csproj.AssemblyReference.cache
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.AssemblyInfoInputs.cache
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.AssemblyInfo.cs
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.csproj.CoreCompileInputs.cache
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.sourcelink.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.Ferremax.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Ferremax.API.props
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ferremax.API.props
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ferremax.API.props
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\scopedcss\bundle\Ferremax.API.styles.css
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.23C3BFF5.Up2Date
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\refint\Ferremax.API.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.pdb
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.genruntimeconfig.cache
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\API\API.cliente\Ferremax\Ferremax.API\obj\Debug\net8.0\ref\Ferremax.API.dll
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\bin\Debug\net8.0\appsettings.json
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.exe
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.deps.json
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.runtimeconfig.json
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.dll
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\bin\Debug\net8.0\Ferremax.API.pdb
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.csproj.AssemblyReference.cache
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.AssemblyInfoInputs.cache
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.AssemblyInfo.cs
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.Ferremax.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.build.Ferremax.API.props
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ferremax.API.props
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ferremax.API.props
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\scopedcss\bundle\Ferremax.API.styles.css
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.23C3BFF5.Up2Date
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.dll
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\refint\Ferremax.API.dll
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.pdb
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\Ferremax.API.genruntimeconfig.cache
+C:\Users\Jose\Downloads\API.cliente-main\API.cliente-main\Ferremax\Ferremax.API\obj\Debug\net8.0\ref\Ferremax.API.dll
